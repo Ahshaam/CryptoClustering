@@ -1,1 +1,1 @@
-# CryptoClustering
+Using Python's Pandas, KMeans, PCA and StandardScaler libraries in sklearn, I analysed a dataset that represented the crypto currency price change percentage over different lengths of time to address real-world business questions. I got myself familiar with the dataset by using pandas to analyze the different columns, and then I transformed and manipulated the data by scaling it in order to be able to use the KMeans model on the data. I later optimized the clusters by finding the columns that had the greatest effect on prediction.
